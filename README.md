@@ -25,9 +25,9 @@ Por otro lado, en la carpeta de 'evaluacion' encontramos el jupyter utilizado pa
 
 ## Estructuras utilizadas
 * Numpy:
-** Introducción
-** Indexación
-** Operaciones esadísticas y matemáticas
+   * Introducción
+   * Indexación
+   * Operaciones esadísticas y matemáticas
 ** Conjuntos y distribuciones aleatorias
 
 * Pandas:
