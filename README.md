@@ -28,7 +28,7 @@ Por otro lado, en la carpeta de 'evaluacion' encontramos el jupyter utilizado pa
    * Introducción
    * Indexación
    * Operaciones esadísticas y matemáticas
-** Conjuntos y distribuciones aleatorias
+   * Conjuntos y distribuciones aleatorias
 
 * Pandas:
 ** Dataframes - Series
