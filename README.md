@@ -31,27 +31,27 @@ Por otro lado, en la carpeta de 'evaluacion' encontramos el jupyter utilizado pa
    * Conjuntos y distribuciones aleatorias
 
 * Pandas:
-** Dataframes - Series
-** Carga y guardado de datos
-** Métodos de pandas
-** Filtrado de datos
-** Unión de datos
-** Groupby
-** Apply
+   * Dataframes - Series
+   * Carga y guardado de datos
+   * Métodos de pandas
+   * Filtrado de datos
+   * Unión de datos
+   * Groupby
+   * Apply
 
 * Visualización:
-** Gráficas en Matplotlib
-** Personalización de gráficas
-** Gráficas en Seaborn
+   * Gráficas en Matplotlib
+   * Personalización de gráficas
+   * Gráficas en Seaborn
 
 * Estadística:
-** Introducción
-** Cuartiles
-** Tabla de frecuencias
-** Tabla de contingencia
-** Correlación
-** Sesgos
-** Intervalos de confianza
+   * Introducción
+   * Cuartiles
+   * Tabla de frecuencias
+   * Tabla de contingencia
+   * Correlación
+   * Sesgos
+   * Intervalos de confianza
 
 ## Librerias utilizadas
 * [Numpy](https://numpy.org/)
