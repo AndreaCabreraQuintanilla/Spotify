@@ -1,4 +1,7 @@
-# Spotify Andrea Cabrera
+# Spotify 
+
+## Integrante
+Andrea Cabrera
 
 ## Descripción
 Este proyecto contiene el código en Python necesario para hacer los ejercicios relacionados con las librerias de Numpy y Pandas, además de herramientas de visualización.
