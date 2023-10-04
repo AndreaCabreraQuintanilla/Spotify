@@ -1,7 +1,7 @@
-# DA_promoE_Mod2_Evaluacion_Sprint1_AndreaCabrera
+# Spotify
 
 ## Descripción
-Este proyecto contiene el código en Python necesario para hacer los ejercicios propuestos en base cualquier tipo de archivo.
+Este proyecto contiene el código en Python necesario para hacer los ejercicios relacionados con las librerias de Numpy y Pandas, además de herramientas de visualización.
 
 ## Motivación para la realización de este proyecto
 
@@ -22,6 +22,36 @@ Por otro lado, en la carpeta de 'evaluacion' encontramos el jupyter utilizado pa
 
 ## Lenguajes utilizados
 * Python 3.10.11
+
+## Estructuras utilizadas
+* Numpy:
+** Introducción
+** Indexación
+** Operaciones esadísticas y matemáticas
+** Conjuntos y distribuciones aleatorias
+
+* Pandas:
+** Dataframes - Series
+** Carga y guardado de datos
+** Métodos de pandas
+** Filtrado de datos
+** Unión de datos
+** Groupby
+** Apply
+
+* Visualización:
+** Gráficas en Matplotlib
+** Personalización de gráficas
+** Gráficas en Seaborn
+
+* Estadística:
+** Introducción
+** Cuartiles
+** Tabla de frecuencias
+** Tabla de contingencia
+** Correlación
+** Sesgos
+** Intervalos de confianza
 
 ## Librerias utilizadas
 * [Numpy](https://numpy.org/)
